@@ -1,7 +1,7 @@
 # 0-1_Knapsack_Problem 
 By Bottom-up Dynamic programming
 
-print the value of optimal solution of 0-1 Knapsack Problem
+Print the value of optimal solution of 0-1 Knapsack Problem
 <br><br><br>
 
 
